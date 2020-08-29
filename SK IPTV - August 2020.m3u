@@ -1,0 +1,651 @@
+#EXTM3U url-tvg="http://127.0.0.1/epg/xmltv.xml" refresh="3600"
+#EXTINF:-1 tvg-id="999" tvh-chnum="0" tvg-logo="https://i.imgur.com/XIYUvM8.png" tvh-tags="BTV",BTV
+udp://239.192.67.34:49220
+#EXTINF:-1 tvg-id="999" tvh-chnum="0" tvg-logo="https://i.imgur.com/XIYUvM8.png" tvh-tags="BTV",BTV
+udp://239.192.67.35:49220
+#EXTINF:-1 tvg-id="170" tvh-chnum="1" tvg-logo="https://i.imgur.com/asfyrTm.png" tvh-tags="드라마",SBS 플러스
+udp://239.192.49.7:49220
+#EXTINF:-1 tvg-id="265" tvh-chnum="2" tvg-logo="https://i.imgur.com/E3pJ5Jz.png" tvh-tags="홈쇼핑",공영쇼핑
+udp://239.192.66.6:49220
+#EXTINF:-1 tvg-id="207" tvh-chnum="3" tvg-logo="https://i.imgur.com/OJ9A8fZ.png" tvh-tags="예능",tvN
+udp://239.192.53.7:49220
+#EXTINF:-1 tvg-id="314" tvh-chnum="4" tvg-logo="https://i.imgur.com/nLxw0LW.png" tvh-tags="홈쇼핑",홈&쇼핑
+udp://239.192.53.6:49220
+#EXTINF:-1 tvg-id="164" tvh-chnum="5" tvg-logo="https://i.imgur.com/K2ztoDT.png" tvh-tags="지상파",kbc_SBS 광주
+udp://239.192.150.28:49220
+#EXTINF:-1 tvg-id="164" tvh-chnum="5" tvg-logo="https://i.imgur.com/K2ztoDT.png" tvh-tags="지상파",TBC_SBS 대구
+udp://239.192.150.11:49220
+#EXTINF:-1 tvg-id="164" tvh-chnum="5" tvg-logo="https://i.imgur.com/K2ztoDT.png" tvh-tags="지상파",TJB_SBS 대전
+udp://239.192.150.19:49220
+#EXTINF:-1 tvg-id="164" tvh-chnum="5" tvg-logo="https://i.imgur.com/K2ztoDT.png" tvh-tags="지상파",KNN_SBS 부산
+udp://239.192.150.3:49220
+#EXTINF:-1 tvg-id="164" tvh-chnum="5" tvg-logo="https://i.imgur.com/K2ztoDT.png" tvh-tags="지상파",UBC_SBS 울산
+udp://239.192.150.35:49220
+#EXTINF:-1 tvg-id="164" tvh-chnum="5" tvg-logo="https://i.imgur.com/K2ztoDT.png" tvh-tags="지상파",G1_SBS 강원
+udp://239.192.150.75:49220
+#EXTINF:-1 tvg-id="164" tvh-chnum="5" tvg-logo="https://i.imgur.com/K2ztoDT.png" tvh-tags="지상파",CJB_SBS 강원
+udp://239.192.150.43:49220
+#EXTINF:-1 tvg-id="164" tvh-chnum="5" tvg-logo="https://i.imgur.com/K2ztoDT.png" tvh-tags="지상파",JIBS_SBS 제주
+udp://239.192.150.131:49220
+#EXTINF:-1 tvg-id="164" tvh-chnum="5" tvg-logo="https://i.imgur.com/K2ztoDT.png" tvh-tags="지상파",JTV_SBS 전주
+udp://239.192.150.51:49220
+#EXTINF:-1 tvg-id="164" tvh-chnum="5" tvg-logo="https://i.imgur.com/K2ztoDT.png" tvh-tags="지상파",SBS
+udp://239.192.41.2:49220
+#EXTINF:-1 tvg-id="164" tvh-chnum="5" tvg-logo="https://i.imgur.com/K2ztoDT.png" tvh-tags="지상파",SBS (HEVC)
+udp://239.192.67.98:49220
+#EXTINF:-1 tvg-id="40" tvh-chnum="6" tvg-logo="https://i.imgur.com/uBClUx6.png" tvh-tags="홈쇼핑",CJ오쇼핑
+udp://239.192.58.11:49220
+#EXTINF:-1 tvg-id="111" tvh-chnum="7" tvg-logo="https://i.imgur.com/XgibZbD.png" tvh-tags="지상파",KBS2
+udp://239.192.39.1:49220
+#EXTINF:-1 tvg-id="111" tvh-chnum="7" tvg-logo="https://i.imgur.com/XgibZbD.png" tvh-tags="지상파",KBS2 (HEVC)
+udp://239.192.67.99:49220
+#EXTINF:-1 tvg-id="312" tvh-chnum="8" tvg-logo="https://i.imgur.com/87fdrA5.png" tvh-tags="홈쇼핑",현대홈쇼핑
+udp://239.192.48.4:49220
+#EXTINF:-1 tvg-id="110" tvh-chnum="9" tvg-logo="https://i.imgur.com/e31o5gw.png" tvh-tags="지상파",광주 KBS1
+udp://239.192.150.25:49220
+#EXTINF:-1 tvg-id="110" tvh-chnum="9" tvg-logo="https://i.imgur.com/e31o5gw.png" tvh-tags="지상파",대구 KBS1
+udp://239.192.150.9:49220
+#EXTINF:-1 tvg-id="110" tvh-chnum="9" tvg-logo="https://i.imgur.com/e31o5gw.png" tvh-tags="지상파",대전 KBS1
+udp://239.192.150.17:49220
+#EXTINF:-1 tvg-id="110" tvh-chnum="9" tvg-logo="https://i.imgur.com/e31o5gw.png" tvh-tags="지상파",부산 KBS1
+udp://239.192.150.1:49220
+#EXTINF:-1 tvg-id="110" tvh-chnum="9" tvg-logo="https://i.imgur.com/e31o5gw.png" tvh-tags="지상파",울산 KBS1
+udp://239.192.150.33:49220
+#EXTINF:-1 tvg-id="110" tvh-chnum="9" tvg-logo="https://i.imgur.com/e31o5gw.png" tvh-tags="지상파",KBS1
+udp://239.192.38.1:49220
+#EXTINF:-1 tvg-id="110" tvh-chnum="9" tvg-logo="https://i.imgur.com/e31o5gw.png" tvh-tags="지상파",KBS1 (HEVC)
+udp://239.192.67.100:49220
+#EXTINF:-1 tvg-id="238" tvh-chnum="10" tvg-logo="https://i.imgur.com/2bCfj0y.png" tvh-tags="홈쇼핑",롯데홈쇼핑
+udp://239.192.56.5:49220
+#EXTINF:-1 tvg-id="122" tvh-chnum="11" tvg-logo="https://i.imgur.com/duig32i.png" tvh-tags="지상파",광주 MBC
+udp://239.192.150.26:49220
+#EXTINF:-1 tvg-id="122" tvh-chnum="11" tvg-logo="https://i.imgur.com/duig32i.png" tvh-tags="지상파",대구 MBC
+udp://239.192.150.10:49220
+#EXTINF:-1 tvg-id="122" tvh-chnum="11" tvg-logo="https://i.imgur.com/duig32i.png" tvh-tags="지상파",대전 MBC
+udp://239.192.150.18:49220
+#EXTINF:-1 tvg-id="122" tvh-chnum="11" tvg-logo="https://i.imgur.com/duig32i.png" tvh-tags="지상파",부산 MBC
+udp://239.192.150.2:49220
+#EXTINF:-1 tvg-id="122" tvh-chnum="11" tvg-logo="https://i.imgur.com/duig32i.png" tvh-tags="지상파",울산 MBC
+udp://239.192.150.34:49220
+#EXTINF:-1 tvg-id="122" tvh-chnum="11" tvg-logo="https://i.imgur.com/duig32i.png" tvh-tags="지상파",MBC
+udp://239.192.40.26:49220
+#EXTINF:-1 tvg-id="122" tvh-chnum="11" tvg-logo="https://i.imgur.com/duig32i.png" tvh-tags="지상파",MBC (HEVC)
+udp://239.192.67.101:49220
+#EXTINF:-1 tvg-id="85" tvh-chnum="12" tvg-logo="https://i.imgur.com/tz88mYd.png" tvh-tags="홈쇼핑",GS SHOP
+udp://239.192.49.4:49220
+#EXTINF:-1 tvg-id="60" tvh-chnum="13" tvg-logo="https://i.imgur.com/WViFruZ.png" tvh-tags="지상파",EBS1
+udp://239.192.42.1:49220
+#EXTINF:-1 tvg-id="144" tvh-chnum="14" tvg-logo="https://i.imgur.com/UD1yoj1.png" tvh-tags="홈쇼핑",NS홈쇼핑
+udp://239.192.52.10:49220
+#EXTINF:-1 tvg-id="97" tvh-chnum="15" tvg-logo="https://i.imgur.com/YOYosLG.png" tvh-tags="종합편성채널",JTBC
+udp://239.192.58.7:49220
+#EXTINF:-1 tvg-id="129" tvh-chnum="16" tvg-logo="https://i.imgur.com/p0mvIJN.png" tvh-tags="종합편성채널",MBN
+udp://239.192.45.5:49220
+#EXTINF:-1 tvg-id="11" tvh-chnum="17" tvg-logo="https://i.imgur.com/8pwPc5R.png" tvh-tags="홈쇼핑",SK stoa
+udp://239.192.69.12:49220
+#EXTINF:-1 tvg-id="281" tvh-chnum="18" tvg-logo="https://i.imgur.com/xti35f5.png" tvh-tags="종합편성채널",채널A
+udp://239.192.47.4:49220
+#EXTINF:-1 tvg-id="208" tvh-chnum="19" tvg-logo="https://i.imgur.com/ShJ5joR.png" tvh-tags="종합편성채널",TV CHOSUN
+udp://239.192.50.3:49220
+#EXTINF:-1 tvg-id="149" tvh-chnum="20" tvg-logo="https://i.imgur.com/DJHN8M6.png" tvh-tags="지상파",OBS
+udp://239.192.55.7:49220
+#EXTINF:-1 tvg-id="119" tvh-chnum="21" tvg-logo="https://i.imgur.com/6ORm0Rz.png" tvh-tags="홈쇼핑",K쇼핑
+udp://239.192.66.17:49220
+#EXTINF:-1 tvg-id="260" tvh-chnum="22" tvg-logo="https://i.imgur.com/ZhYaqpt.png" tvh-tags="홈쇼핑",신세계쇼핑
+udp://239.192.64.6:49220
+#EXTINF:-1 tvg-id="268" tvh-chnum="23" tvg-logo="https://i.imgur.com/KlTCP8V.png" tvh-tags="보도",연합뉴스TV
+udp://239.192.57.3:49220
+#EXTINF:-1 tvg-id="218" tvh-chnum="24" tvg-logo="https://i.imgur.com/ByeeX5e.png" tvh-tags="보도",YTN
+udp://239.192.47.7:49220
+#EXTINF:-1 tvg-id="258" tvh-chnum="25" tvg-logo="https://i.imgur.com/Q7FHxYB.png" tvh-tags="홈쇼핑",쇼핑엔티
+udp://239.192.69.109:49220
+#EXTINF:-1 tvg-id="165" tvh-chnum="26" tvg-logo="https://i.imgur.com/SfDs4qN.png" tvh-tags="뉴스/경제",SBS CNBC
+udp://239.192.53.8:49220
+#EXTINF:-1 tvg-id="121" tvh-chnum="27" tvg-logo="https://i.imgur.com/putHm2b.png" tvh-tags="음악",Mnet
+udp://239.192.48.5:49220
+#EXTINF:-1 tvg-id="123" tvh-chnum="28" tvg-logo="https://i.imgur.com/oOnpFes.png" tvh-tags="예능",MBC Every1
+udp://239.192.50.6:49220
+#EXTINF:-1 tvg-id="84" tvh-chnum="29" tvg-logo="https://i.imgur.com/0Y0pRW4.png" tvh-tags="홈쇼핑",GS MY SHOP
+udp://239.192.66.4:49220
+#EXTINF:-1 tvg-id="103" tvh-chnum="30" tvg-logo="https://i.imgur.com/CrLMIEQ.png" tvh-tags="드라마",KBS 드라마
+udp://239.192.49.6:49220
+#EXTINF:-1 tvg-id="237" tvh-chnum="31" tvg-logo="https://i.imgur.com/vri0qlq.png" tvh-tags="홈쇼핑",롯데OneTV
+udp://239.192.69.11:49220
+#EXTINF:-1 tvg-id="128" tvh-chnum="32" tvg-logo="https://i.imgur.com/VBMFcZ3.png" tvh-tags="드라마",MBC 드라마
+udp://239.192.48.6:49220
+#EXTINF:-1 tvg-id="41" tvh-chnum="33" tvg-logo="https://i.imgur.com/WlK2YDk.png" tvh-tags="홈쇼핑",CJ오쇼핑 플러스
+udp://239.192.64.7:49220
+#EXTINF:-1 tvg-id="148" tvh-chnum="34" tvg-logo="https://i.imgur.com/5kF0Ypt.png" tvh-tags="드라마",Olive
+udp://239.192.58.10:49220
+#EXTINF:-1 tvg-id="213" tvh-chnum="35" tvg-logo="https://i.imgur.com/Cged9ve.png" tvh-tags="홈쇼핑",W쇼핑
+udp://239.192.65.10:49220
+#EXTINF:-1 tvg-id="231" tvh-chnum="36" tvg-logo="https://i.imgur.com/4ESaIH6.png" tvh-tags="드라마",드라마큐브
+udp://239.192.69.37:49220
+#EXTINF:-1 tvg-id="143" tvh-chnum="37" tvg-logo="https://i.imgur.com/ipGXgEK.png" tvh-tags="홈쇼핑",NS Shop+
+udp://239.192.65.6:49220
+#EXTINF:-1 tvg-id="232" tvh-chnum="38" tvg-logo="https://i.imgur.com/jcguamX.png" tvh-tags="드라마",드라맥스
+udp://239.192.69.38:49220
+#EXTINF:-1 tvg-id="313" tvh-chnum="39" tvg-logo="https://i.imgur.com/COo8Bcm.png" tvh-tags="홈쇼핑",현대홈쇼핑+Shop
+udp://239.192.69.110:49220
+#EXTINF:-1 tvg-id="173" tvh-chnum="40" tvg-logo="https://i.imgur.com/e9BTUAb.png" tvh-tags="드라마",SKY
+udp://239.192.64.14:49220
+#EXTINF:-1 tvg-id="531" tvh-chnum="124" tvg-logo="https://i.imgur.com/GKaPezX.png" tvh-tags="드라마",MBC ON
+udp://239.192.48.7:49220
+#EXTINF:-1 tvg-id="89" tvh-chnum="42" tvg-logo="https://i.imgur.com/V9CQ4A6.png" tvh-tags="드라마",Highlight TV
+udp://239.192.68.9:49220
+#EXTINF:-1 tvg-id="48" tvh-chnum="43" tvg-logo="https://i.imgur.com/lCGq3v1.png" tvh-tags="드라마",CNTV
+udp://239.192.64.15:49220
+#EXTINF:-1 tvg-id="62" tvh-chnum="44" tvg-logo="https://i.imgur.com/gsnjG4A.png" tvh-tags="드라마",EDGE TV
+udp://239.192.69.6:49220
+#EXTINF:-1 tvg-id="233" tvh-chnum="45" tvg-logo="https://i.imgur.com/8nE7mmk.png" tvh-tags="드라마",디원
+udp://239.192.65.11:49220
+#EXTINF:-1 tvg-id="230" tvh-chnum="46" tvg-logo="https://i.imgur.com/xT7pVuI.png" tvh-tags="드라마",드라마H
+udp://239.192.69.3:49220
+#EXTINF:-1 tvg-id="91" tvh-chnum="47" tvg-logo="https://i.imgur.com/GTANuZS.png" tvh-tags="드라마",HQ+
+udp://239.192.69.236:49220
+#EXTINF:-1 tvg-id="99" tvh-chnum="48" tvg-logo="https://i.imgur.com/WtXDuFU.png" tvh-tags="예능",JTBC2
+udp://239.192.66.16:49220
+#EXTINF:-1 tvg-id="55" tvh-chnum="49" tvg-logo="https://i.imgur.com/0WmEGB4.png" tvh-tags="예능",E채널
+udp://239.192.68.15:49220
+#EXTINF:-1 tvg-id="290" tvh-chnum="51" tvg-logo="https://i.imgur.com/qK9KkRd.png" tvh-tags="영화",CATCH ON 1
+udp://239.192.54.3:49220
+#EXTINF:-1 tvg-id="291" tvh-chnum="52" tvg-logo="https://i.imgur.com/sLc2req.png" tvh-tags="영화",CATCH ON 2
+udp://239.192.69.134:49220
+#EXTINF:-1 tvg-id="283" tvh-chnum="53" tvg-logo="https://i.imgur.com/fwjRwkx.png" tvh-tags="영화",OCN Movies
+udp://239.192.51.7:49220
+#EXTINF:-1 tvg-id="283" tvh-chnum="53" tvg-logo="https://i.imgur.com/fwjRwkx.png" tvh-tags="영화",OCN Movies (HEVC)
+udp://239.192.67.227:49220
+#EXTINF:-1 tvg-id="151" tvh-chnum="54" tvg-logo="https://i.imgur.com/IXh6dwo.png" tvh-tags="영화",OCN
+udp://239.192.52.8:49220
+#EXTINF:-1 tvg-id="151" tvh-chnum="54" tvg-logo="https://i.imgur.com/IXh6dwo.png" tvh-tags="영화",OCN (HEVC)
+udp://239.192.67.226:49220
+#EXTINF:-1 tvg-id="196" tvh-chnum="55" tvg-logo="https://i.imgur.com/D9PzDBr.png" tvh-tags="영화",OCN Thrills
+udp://239.192.53.9:49220
+#EXTINF:-1 tvg-id="196" tvh-chnum="55" tvg-logo="https://i.imgur.com/D9PzDBr.png" tvh-tags="영화",OCN Thrills (HEVC)
+udp://239.192.67.228:49220
+#EXTINF:-1 tvg-id="171" tvh-chnum="56" tvg-logo="https://i.imgur.com/lTK9VD4.png" tvh-tags="영화",Screen
+udp://239.192.69.35:49220
+#EXTINF:-1 tvg-id="171" tvh-chnum="56" tvg-logo="https://i.imgur.com/lTK9VD4.png" tvh-tags="영화",Screen (HEVC)
+udp://239.192.67.229:49220
+#EXTINF:-1 tvg-id="134" tvh-chnum="57" tvg-logo="https://i.imgur.com/dOOBYJm.png" tvh-tags="영화",Mplex
+udp://239.192.64.10:49220
+#EXTINF:-1 tvg-id="38" tvh-chnum="58" tvg-logo="https://i.imgur.com/TfhQXIv.png" tvh-tags="영화",Cinef
+udp://239.192.69.36:49220
+#EXTINF:-1 tvg-id="201" tvh-chnum="59" tvg-logo="https://i.imgur.com/6vzmEfd.png" tvh-tags="영화",The Movie
+udp://239.192.69.107:49220
+#EXTINF:-1 tvg-id="174" tvh-chnum="60" tvg-logo="https://imgur.com/rBfWZR9.png" tvh-tags="영화",AsiaM
+udp://239.192.70.12:49220
+#EXTINF:-1 tvg-id="275" tvh-chnum="61" tvg-logo="https://i.imgur.com/iA5UIJ9.png" tvh-tags="영화",인디필름
+udp://239.192.69.168:49220
+#EXTINF:-1 tvg-id="318" tvh-chnum="62" tvg-logo="https://i.imgur.com/xDXM13Q.png" tvh-tags="영화",Celestial Movies
+udp://239.192.69.14:49220
+#EXTINF:-1 tvg-id="318" tvh-chnum="63" tvg-logo="https://i.imgur.com/WvItKic.png" tvh-tags="영화",World Classic Movie
+udp://239.192.69.240:49220
+#EXTINF:-1 tvg-id="39" tvh-chnum="70" tvg-logo="https://i.imgur.com/5rRW0R3.png" tvh-tags="드라마",UXN
+rtp://239.192.81.38:49220
+#EXTINF:-1 tvg-id="319" tvh-chnum="71" tvg-logo="https://i.imgur.com/aLG2rKa.png" tvh-tags="드라마",UHD Dream TV
+rtp://239.192.81.37:49220
+#EXTINF:-1 tvg-id="7" tvh-chnum="72" tvg-logo="https://i.imgur.com/1u80OGN.png" tvh-tags="드라마",Asia UHD
+rtp://239.192.81.36:49220
+#EXTINF:-1 tvg-id="320" tvh-chnum="73" tvg-logo="https://i.imgur.com/EgVuybQ.png" tvh-tags="드라마",UMAX
+rtp://239.192.81.34:49220
+#EXTINF:-1 tvg-id="445" tvh-chnum="74" tvg-logo="https://i.imgur.com/eFTXeGV.png" tvh-tags="예능",INSIGHT TV
+rtp://239.192.81.39:49220
+#EXTINF:-1 tvg-id="123" tvh-chnum="75" tvg-logo="https://i.imgur.com/2FsjMbb.png" tvh-tags="예능",SBS F!L UHD
+rtp://239.192.81.65:49220
+#EXTINF:-1 tvg-id="52" tvh-chnum="79" tvg-logo="https://i.imgur.com/4Xqehq9.png" tvh-tags="라이프",DOG TV
+udp://239.192.69.71:49220
+#EXTINF:-1 tvg-id="104" tvh-chnum="80" tvg-logo="https://i.imgur.com/D1o9by9.png" tvh-tags="예능",KBS joy
+udp://239.192.56.6:49220
+#EXTINF:-1 tvg-id="166" tvh-chnum="81" tvg-logo="https://i.imgur.com/D1EYJmr.png" tvh-tags="예능",SBS fun E
+udp://239.192.55.3:49220
+#EXTINF:-1 tvg-id="495" tvh-chnum="82" tvg-logo="https://i.imgur.com/EwThLNU.png" tvh-tags="라이프",JTBC4
+udp://239.192.69.171:49220
+#EXTINF:-1 tvg-ig="896" tvh-chnum="83" tvg-logo="https://i.imgur.com/VJmGKvP.png" tvh-tags="예능",SBS F!L
+udp://239.192.69.241:49220
+#EXTINF:-1 tvg-id="147" tvh-chnum="84" tvg-logo="https://i.imgur.com/0SMl3O5.png" tvh-tags="예능",OtvN
+udp://239.192.53.10:49220
+#EXTINF:-1 tvg-id="216" tvh-chnum="85" tvg-logo="https://i.imgur.com/gGqDBjb.png" tvh-tags="예능",XtvN
+udp://239.192.57.6:49220
+#EXTINF:-1 tvg-id="26" tvh-chnum="86" tvg-logo="https://i.imgur.com/2FwWidb.png" tvh-tags="예능",TVCHOSUN2
+udp://239.192.68.16:49220
+#EXTINF:-1 tvg-id="293" tvh-chnum="87" tvg-logo="https://i.imgur.com/DHbUoDm.png" tvh-tags="예능",코미디TV
+udp://239.192.69.47:49220
+#EXTINF:-1 tvg-id="101" tvh-chnum="88" tvg-logo="https://i.imgur.com/MYtePna.png" tvh-tags="예능",K star
+udp://239.192.55.6:49220
+#EXTINF:-1 tvg-id="456" tvh-chnum="89" tvg-logo="https://i.imgur.com/vh1U91w.png" tvh-tags="예능",라이프타임
+udp://239.192.65.3:49220
+#EXTINF:-1 tvg-id="80" tvh-chnum="90" tvg-logo="https://i.imgur.com/DAnUsTS.png" tvh-tags="예능",FX
+udp://239.192.69.130:49220
+#EXTINF:-1 tvg-id="79" tvh-chnum="91" tvg-logo="https://i.imgur.com/6V8X43L.png" tvh-tags="예능",FUN TV
+udp://239.192.69.106:49220
+#EXTINF:-1 tvg-id="240" tvh-chnum="92" tvg-logo="https://i.imgur.com/Oy7qjnW.png" tvh-tags="예능",마이펫TV
+udp://239.192.69.169:49220
+#EXTINF:-1 tvg-id="43" tvh-chnum="93" tvg-logo="https://i.imgur.com/fNuqGzR.png" tvh-tags="예능",CMCTV
+udp://239.192.69.9:49220
+#EXTINF:-1 tvg-id="177" tvh-chnum="94" tvg-logo="https://i.imgur.com/RDUfvRG.png" tvh-tags="예능",ONCE
+udp://239.192.69.175:49220
+#EXTINF:-1 tvg-id="61" tvh-chnum="95" tvg-logo="https://i.imgur.com/RIrBF4D.png" tvh-tags="지상파",EBS2
+udp://239.192.42.2:49220
+#EXTINF:-1 tvg-id="409" tvh-chnum="96" tvg-logo="https://i.imgur.com/BH3DnrW.png" tvh-tags="예능",CH.DIA
+udp://239.192.55.8:49220
+#EXTINF:-1 tvg-id="282" tvh-chnum="97" tvg-logo="https://i.imgur.com/rRisTh8.png" tvh-tags="예능",채널A플러스
+udp://239.192.69.227:49220
+#EXTINF:-1 tvg-id="130" tvh-chnum="98" tvg-logo="https://i.imgur.com/yMZiUUp.png" tvh-tags="예능",MBN플러스
+udp://239.192.69.228:49220
+#EXTINF:-1 tvg-id="174" tvh-chnum="99" tvg-logo="https://i.imgur.com/ALqDHH6.png" tvh-tags="예능", NQQ
+udp://239.192.70.3:49220
+#EXTINF:-1 tvg-id="894" tvh-chnum="100" tvg-logo="https://i.imgur.com/VeX29IO.png" tvh-tags="예능",Smile TV Plus
+udp://239.192.70.35:49220
+#EXTINF:-1 tvg-id="74" tvh-chnum="101" tvg-logo="https://i.imgur.com/8usDWOC.png" tvh-tags="시리즈",FOX
+udp://239.192.57.4:49220
+#EXTINF:-1 tvg-id="10" tvh-chnum="102" tvg-logo="https://i.imgur.com/QrAXBEm.png" tvh-tags="시리즈",AXN
+udp://239.192.69.48:49220
+#EXTINF:-1 tvg-id="35" tvh-chnum="103" tvg-logo="https://i.imgur.com/V9jGCZm.png" tvh-tags="시리즈",채널J
+udp://239.192.69.101:49220
+#EXTINF:-1 tvg-id="278" tvh-chnum="104" tvg-logo="https://i.imgur.com/Nal18s5.png" tvh-tags="시리즈",중화TV
+udp://239.192.69.133:49220
+#EXTINF:-1 tvg-id="280" tvh-chnum="105" tvg-logo="https://i.imgur.com/tRqGKcS.png" tvh-tags="시리즈",채널 Ching
+udp://239.192.69.76:49220
+#EXTINF:-1 tvg-id="8" tvh-chnum="106" tvg-logo="https://i.imgur.com/gleMSFq.png" tvh-tags="시리즈",Asia N
+udp://239.192.65.5:49220
+#EXTINF:-1 tvg-id="87" tvh-chnum="107" tvg-logo="https://i.imgur.com/yBChQVh.png" tvh-tags="시리즈",CH U
+udp://239.192.69.141:49220
+#EXTINF:-1 tvg-id="286" tvh-chnum="108" tvg-logo="https://i.imgur.com/jEyoLS1.png" tvh-tags="시리즈",채널차이나
+udp://239.192.64.9:49220
+#EXTINF:-1 tvg-id="199" tvh-chnum="109" tvg-logo="https://i.imgur.com/Ea3Vu8Z.png" tvh-tags="시리즈",텔레노벨라
+udp://239.192.66.3:49220
+#EXTINF:-1 tvg-id="444" tvh-chnum="110" tvg-logo="https://i.imgur.com/ApP3Kwf.png" tvh-tags="시리즈",채널W
+udp://239.192.70.11:49220
+#EXTINF:-1 tvg-id="203" tvh-chnum="111" tvg-logo="https://i.imgur.com/dMAegFG.png" tvh-tags="시리즈",ApleDrama
+udp://239.192.70.45:49220
+#EXTINF:-1 tvg-id="204" tvh-chnum="112" tvg-logo="https://i.imgur.com/PW0Fywo.png" tvh-tags="시리즈",WeLike
+udp://239.192.70.46:49220
+#EXTINF:-1 tvg-id="414" tvh-chnum="118" tvg-logo="https://i.imgur.com/Y3eYOc2.png" tvh-tags="스포츠",SPOTV ON
+udp://239.192.68.8:49220
+#EXTINF:-1 tvg-id="415" tvh-chnum="119" tvg-logo="https://i.imgur.com/jbdurz4.png" tvh-tags="스포츠",SPOTV ON 2
+udp://239.192.69.10:49220
+#EXTINF:-1 tvg-id="183" tvh-chnum="120" tvg-logo="https://i.imgur.com/cIpIf6b.png" tvh-tags="스포츠",SPOTV
+udp://239.192.58.3:49220
+#EXTINF:-1 tvg-id="183" tvh-chnum="120" tvg-logo="https://i.imgur.com/cIpIf6b.png" tvh-tags="스포츠",SPOTV(HEVC)
+udp://239.192.67.133:49220
+#EXTINF:-1 tvg-id="107" tvh-chnum="121" tvg-logo="https://i.imgur.com/xspD7UE.png" tvh-tags="스포츠",KBSN 스포츠
+udp://239.192.55.5:49220
+#EXTINF:-1 tvg-id="107" tvh-chnum="121" tvg-logo="https://i.imgur.com/xspD7UE.png" tvh-tags="스포츠",KBSN 스포츠 (HEVC)
+udp://239.192.67.132:49220
+#EXTINF:-1 tvg-id="169" tvh-chnum="122" tvg-logo="https://i.imgur.com/j1vHAu6.png" tvh-tags="스포츠",SBS Sports
+udp://239.192.59.7:49220
+#EXTINF:-1 tvg-id="169" tvh-chnum="122" tvg-logo="https://i.imgur.com/j1vHAu6.png" tvh-tags="스포츠",SBS Sports (HEVC)
+udp://239.192.67.130:49220
+#EXTINF:-1 tvg-id="126" tvh-chnum="123" tvg-logo="https://i.imgur.com/Su21uj3.png" tvh-tags="스포츠",MBC Sports+
+udp://239.192.59.3:49220
+#EXTINF:-1 tvg-id="126" tvh-chnum="123" tvg-logo="https://i.imgur.com/Su21uj3.png" tvh-tags="스포츠",MBC Sports+ (HEVC)
+udp://239.192.67.131:49220
+#EXTINF:-1 tvg-id="178" tvh-chnum="125" tvg-logo="https://i.imgur.com/QHV9bdA.png" tvh-tags="스포츠",sky Sports
+udp://239.192.49.5:49220
+#EXTINF:-1 tvg-id="100" tvh-chnum="126" tvg-logo="https://i.imgur.com/KvGwEc1.png" tvh-tags="스포츠",JTBC Golf&Sports
+udp://239.192.69.7:49220
+#EXTINF:-1 tvg-id="185" tvh-chnum="127" tvg-logo="https://i.imgur.com/81Fshnn.png" tvh-tags="스포츠",SPOTV+
+udp://239.192.69.78:49220
+#EXTINF:-1 tvg-id="185" tvh-chnum="127" tvg-logo="https://i.imgur.com/81Fshnn.png" tvh-tags="스포츠",SPOTV+ (HEVC)
+udp://239.192.67.163:49220
+#EXTINF:-1 tvg-id="186" tvh-chnum="128" tvg-logo="https://i.imgur.com/GNicmGY.png" tvh-tags="스포츠",SPOTV2
+udp://239.192.69.42:49220
+#EXTINF:-1 tvg-id="186" tvh-chnum="128" tvg-logo="https://i.imgur.com/GNicmGY.png" tvh-tags="스포츠",SPOTV2 (HEVC)
+udp://239.192.67.162:49220
+#EXTINF:-1 tvg-id="93" tvh-chnum="129" tvg-logo="https://i.imgur.com/wOOQEC1.png" tvh-tags="스포츠",IB Sports
+udp://239.192.57.7:49220
+#EXTINF:-1 tvg-id="20" tvh-chnum="130" tvg-logo="https://i.imgur.com/f0OW8wX.png" tvh-tags="스포츠",Billiards TV
+udp://239.192.69.74:49220
+#EXTINF:-1 tvg-id="167" tvh-chnum="131" tvg-logo="https://i.imgur.com/HdS0GNV.png" tvh-tags="스포츠",SBS GOLF
+udp://239.192.57.5:49220
+#EXTINF:-1 tvg-id="167" tvh-chnum="131" tvg-logo="https://i.imgur.com/HdS0GNV.png" tvh-tags="스포츠",SBS GOLF (HEVC)
+udp://239.192.67.164:49220
+#EXTINF:-1 tvg-id="98" tvh-chnum="132" tvg-logo="https://i.imgur.com/Bnw7O5U.png" tvh-tags="스포츠",JTBC Golf
+udp://239.192.59.5:49220
+#EXTINF:-1 tvg-id="98" tvh-chnum="132" tvg-logo="https://i.imgur.com/Bnw7O5U.png" tvh-tags="스포츠",JTBC Golf (HEVC)
+udp://239.192.67.165:49220
+#EXTINF:-1 tvg-id="200" tvh-chnum="133" tvg-logo="https://i.imgur.com/3VlCrJ7.png" tvh-tags="스포츠",Golf Channel Korea
+udp://239.192.69.102:49220
+#EXTINF:-1 tvg-id="492" tvh-chnum="134" tvg-logo="https://i.imgur.com/oa1VbRv.png" tvh-tags="스포츠",스크린골프존
+udp://239.192.64.17:49220
+#EXTINF:-1 tvg-id="153" tvh-chnum="135" tvg-logo="https://i.imgur.com/tLtSTaq.png" tvh-tags="스포츠",OGN
+udp://239.192.58.5:49220
+#EXTINF:-1 tvg-id="265" tvh-chnum="136" tvg-logo="https://i.imgur.com/IDjkZpm.png" tvh-tags="스포츠",SBS-Afreeca TV
+udp://239.192.70.37:49220
+#EXTINF:-1 tvg-id="184" tvh-chnum="137" tvg-logo="https://i.imgur.com/5IMfa6N.png" tvh-tags="스포츠",STA
+udp://239.192.69.49:49220
+#EXTINF:-1 tvg-id="68" tvh-chnum="138" tvg-logo="https://i.imgur.com/7hVKz6n.png" tvh-tags="스포츠",Eurosport
+udp://239.192.69.68:49220
+#EXTINF:-1 tvg-id="192" tvh-chnum="139" tvg-logo="https://i.imgur.com/8ndGr4n.png" tvh-tags="스포츠",Star Sports
+udp://239.192.69.166:49220
+#EXTINF:-1 tvg-id="446" tvh-chnum="140" tvg-logo="https://i.imgur.com/cb58LLs.png" tvh-tags="스포츠",인도어스포츠
+udp://239.192.69.229:49220
+#EXTINF:-1 tvg-id="264" tvh-chnum="141" tvg-logo="https://i.imgur.com/OGj4tk5.png" tvh-tags="스포츠",생활체육TV
+udp://239.192.70.36:49220
+#EXTINF:-1 tvg-id="297" tvh-chnum="150" tvg-logo="https://i.imgur.com/dVWy3Ex.png" tvh-tags="뉴스/경제",토마토TV
+udp://239.192.65.7:49220
+#EXTINF:-1 tvg-id="303" tvh-chnum="151" tvg-logo="https://i.imgur.com/ChnD0FT.png" tvh-tags="뉴스/경제",한국경제TV
+udp://239.192.68.10:49220
+#EXTINF:-1 tvg-id="135" tvh-chnum="152" tvg-logo="https://i.imgur.com/joWd14j.png" tvh-tags="뉴스/경제",MTN
+udp://239.192.68.13:49220
+#EXTINF:-1 tvg-id="241" tvh-chnum="153" tvg-logo="https://i.imgur.com/a4PwnPm.png" tvh-tags="뉴스/경제",매일경제TV
+udp://239.192.68.12:49220
+#EXTINF:-1 tvg-id="264" tvh-chnum="154" tvg-logo="https://i.imgur.com/2D6WoS8.png" tvh-tags="뉴스/경제",아시아경제TV
+udp://239.192.68.7:49220
+#EXTINF:-1 tvg-id="272" tvh-chnum="155" tvg-logo="https://i.imgur.com/W90Hw2p.png" tvh-tags="뉴스/경제",이데일리TV
+udp://239.192.68.14:49220
+#EXTINF:-1 tvg-id="255" tvh-chnum="156" tvg-logo="https://i.imgur.com/LBzj77k.png" tvh-tags="뉴스/경제",서울경제TV
+udp://239.192.69.80:49220
+#EXTINF:-1 tvg-id="220" tvh-chnum="157" tvg-logo="https://i.imgur.com/f66yRT9.png" tvh-tags="뉴스/경제",YTN 라이프
+udp://239.192.69.4:49220
+#EXTINF:-1 tvg-id="46" tvh-chnum="158" tvg-logo="https://i.imgur.com/RxsYny9.png" tvh-tags="뉴스/경제",CNN International
+udp://239.192.69.111:49220
+#EXTINF:-1 tvg-id="47" tvh-chnum="159" tvg-logo="https://i.imgur.com/EL6i9mA.png" tvh-tags="뉴스/경제",CNN US
+udp://239.192.69.15:49220
+#EXTINF:-1 tvg-id="18" tvh-chnum="160" tvg-logo="https://i.imgur.com/IwJBNd4.png" tvh-tags="뉴스/경제",BBC World News
+udp://239.192.69.202:49220
+#EXTINF:-1 tvg-id="411" tvh-chnum="161" tvg-logo="https://i.imgur.com/rhZf4Zx.png" tvh-tags="뉴스/경제",CGTN
+udp://239.192.69.204:49220
+#EXTINF:-1 tvg-id="21" tvh-chnum="162" tvg-logo="https://i.imgur.com/WWNLhh3.png" tvh-tags="뉴스/경제",Bloomberg TV
+udp://239.192.69.203:49220
+#EXTINF:-1 tvg-id="36" tvh-chnum="163" tvg-logo="https://i.imgur.com/hahdOp1.png" tvh-tags="뉴스/경제",Channel News Asia
+udp://239.192.69.201:49220
+#EXTINF:-1 tvg-id="225" tvh-chnum="164" tvg-logo="https://i.imgur.com/cQHPmCw.png" tvh-tags="뉴스/경제",내외경제TV
+udp://239.192.69.230:49220
+#EXTINF:-1 tvg-id="249" tvh-chnum="165" tvg-logo="https://i.imgur.com/ePLp200.png" tvh-tags="뉴스/경제",부동산토마토
+udp://239.192.70.9:49220
+#EXTINF:-1 tvg-id="76" tvh-chnum="166" tvg-logo="https://i.imgur.com/9rGThzD.png" tvh-tags="뉴스/경제",FOX News Channel
+udp://239.192.69.239:49220
+#EXTINF:-1 tvg-id="198" tvh-chnum="167" tvg-logo="https://i.imgur.com/o3MWHfb.png" tvh-tags="뉴스/경제",tbsTV
+udp://239.192.69.163:49220
+#EXTINF:-1 tvg-id="202" tvh-chnum="170" tvg-logo="https://i.imgur.com/VUqSOjx.png" tvh-tags="애니",Tooniverse
+udp://239.192.54.7:49220
+#EXTINF:-1 tvg-id="235" tvh-chnum="171" tvg-logo="https://i.imgur.com/qZdqeZo.png" tvh-tags="애니",디즈니채널
+udp://239.192.54.5:49220
+#EXTINF:-1 tvg-id="234" tvh-chnum="172" tvg-logo="https://i.imgur.com/EGiEKhj.png" tvh-tags="애니",디즈니주니어
+udp://239.192.54.8:49220
+#EXTINF:-1 tvg-id="4" tvh-chnum="173" tvg-logo="https://i.imgur.com/2Gfqhuj.png" tvh-tags="애니",Animax
+udp://239.192.69.43:49220
+#EXTINF:-1 tvg-id="5" tvh-chnum="174" tvg-logo="https://i.imgur.com/sIp2MZ3.png" tvh-tags="애니",애니원
+udp://239.192.69.44:49220
+#EXTINF:-1 tvg-id="250" tvh-chnum="175" tvg-logo="https://i.imgur.com/GSPRJqf.png" tvh-tags="애니",부메랑
+udp://239.192.65.12:49220
+#EXTINF:-1 tvg-id="141" tvh-chnum="176" tvg-logo="https://i.imgur.com/6pWpFCX.png" tvh-tags="애니",Nickelodeon
+udp://239.192.65.17:49220
+#EXTINF:-1 tvg-id="289" tvh-chnum="177" tvg-logo="https://i.imgur.com/cJZHPjr.png" tvh-tags="애니",카툰네트워크
+udp://239.192.69.73:49220
+#EXTINF:-1 tvg-id="266" tvh-chnum="178" tvg-logo="https://i.imgur.com/7RKoOZq.png" tvh-tags="애니",애니플러스
+udp://239.192.65.14:49220
+#EXTINF:-1 tvg-id="2" tvh-chnum="179" tvg-logo="https://i.imgur.com/ipM9AXe.png" tvh-tags="애니",애니박스
+udp://239.192.69.8:49220
+#EXTINF:-1 tvg-id="53" tvh-chnum="180" tvg-logo="https://i.imgur.com/ETfF49T.png" tvh-tags="애니",DreamWorks
+udp://239.192.69.238:49220
+#EXTINF:-1 tvg-id="391" tvh-chnum="181" tvg-logo="https://i.imgur.com/1yWy8r8.png" tvh-tags="애니",MiaoMi
+udp://239.192.70.42:49220
+#EXTINF:-1 tvg-id="496" tvh-chnum="182" tvg-logo="https://i.imgur.com/i3Eufuy.png" tvh-tags="키즈",뽀요TV
+udp://239.192.66.7:49220
+#EXTINF:-1 tvg-id="497" tvh-chnum="183" tvg-logo="https://i.imgur.com/rHO0O4P.png" tvh-tags="키즈",캐리TV
+udp://239.192.67.40:49220
+#EXTINF:-1 tvg-id="498" tvh-chnum="187" tvg-logo="https://i.imgur.com/2oqb1rj.png" tvh-tags="키즈",english gem
+udp://239.192.69.209:49220
+#EXTINF:-1 tvg-id="493" tvh-chnum="188" tvg-logo="https://i.imgur.com/qYzAXDx.png" tvh-tags="키즈",신기한나라TV
+udp://239.192.69.13:49220
+#EXTINF:-1 tvg-id="112" tvh-chnum="189" tvg-logo="https://i.imgur.com/0loInJO.png" tvh-tags="키즈",키즈톡톡 플러스
+udp://239.192.66.8:49220
+#EXTINF:-1 tvg-id="105" tvh-chnum="190" tvg-logo="https://i.imgur.com/Jcfjs9E.png" tvh-tags="키즈",KBS KIDS
+udp://239.192.58.9:49220
+#EXTINF:-1 tvg-id="228" tvh-chnum="191" tvg-logo="https://i.imgur.com/CETWIE6.png" tvh-tags="키즈",어린이TV
+udp://239.192.66.13:49220
+#EXTINF:-1 tvg-id="96" tvh-chnum="192" tvg-logo="https://i.imgur.com/NoNRdSt.png" tvh-tags="키즈",JEI 재능TV
+udp://239.192.69.142:49220
+#EXTINF:-1 tvg-id="296" tvh-chnum="193" tvg-logo="https://i.imgur.com/f8T1Sw4.png" tvh-tags="키즈",Bravo Kids
+udp://239.192.69.132:49220
+#EXTINF:-1 tvg-id="57" tvh-chnum="194" tvg-logo="https://i.imgur.com/RIgVjvP.png" tvh-tags="키즈",EBS KIDS
+udp://239.192.66.10:49220
+#EXTINF:-1 tvg-id="14" tvh-chnum="195" tvg-logo="https://i.imgur.com/mU7QuTz.png" tvh-tags="키즈",Baby TV
+udp://239.192.69.81:49220
+#EXTINF:-1 tvg-id="501" tvh-chnum="196" tvg-logo="https://i.imgur.com/sh5jKnW.png" tvh-tags="키즈",대교베이비TV
+udp://239.192.70.10:49220
+#EXTINF:-1 tvg-id="95" tvh-chnum="200" tvg-logo="https://i.imgur.com/R1oJmLo.png" tvh-tags="교육",JEI 재능 English
+udp://239.192.69.138:49220
+#EXTINF:-1 tvg-id="457" tvh-chnum="201" tvg-logo="https://i.imgur.com/nrtT3Wm.png" tvh-tags="교육",플레이런TV
+udp://239.192.69.135:49220
+#EXTINF:-1 tvg-id="56" tvh-chnum="202" tvg-logo="https://i.imgur.com/Rx4mgpm.png" tvh-tags="교육",EBS English
+udp://239.192.69.200:49220
+#EXTINF:-1 tvg-id="58" tvh-chnum="203" tvg-logo="https://i.imgur.com/WGlWiWy.png" tvh-tags="교육",EBS +1
+udp://239.192.69.198:49220
+#EXTINF:-1 tvg-id="59" tvh-chnum="204" tvg-logo="https://i.imgur.com/QPq2wcg.png" tvh-tags="교육",EBS +2
+udp://239.192.69.199:49220
+#EXTINF:-1 tvg-id="63" tvh-chnum="205" tvg-logo="https://i.imgur.com/ZsMKNGe.png" tvh-tags="교육",edu TV
+udp://239.192.69.144:49220
+#EXTINF:-1 tvg-id="154" tvh-chnum="210" tvg-logo="https://i.imgur.com/9brMDfR.png" tvh-tags="라이프",On style
+udp://239.192.54.9:49220
+#EXTINF:-1 tvg-id="71" tvh-chnum="211" tvg-logo="https://i.imgur.com/qPBnZpV.png" tvh-tags="라이프",Fashion N
+udp://239.192.69.140:49220
+#EXTINF:-1 tvg-id="285" tvh-chnum="212" tvg-logo="https://i.imgur.com/lvtWgFL.png" tvh-tags="라이프",채널뷰
+udp://239.192.69.40:49220
+#EXTINF:-1 tvg-id="50" tvh-chnum="213" tvg-logo="https://i.imgur.com/xvEjFJa.png" tvh-tags="예능",CUBE TV
+udp://239.192.69.39:49220
+#EXTINF:-1 tvg-id="108" tvh-chnum="214" tvg-logo="https://i.imgur.com/sVqBczs.png" tvh-tags="라이프",KBS W
+udp://239.192.57.8:49220
+#EXTINF:-1 tvg-id="316" tvh-chnum="215" tvg-logo="https://i.imgur.com/3VJOGoI.png" tvh-tags="라이프",Life U
+udp://239.192.69.41:49220
+#EXTINF:-1 tvg-id="75" tvh-chnum="216" tvg-logo="https://i.imgur.com/CqVujLk.png" tvh-tags="라이프",Fox life
+udp://239.192.69.131:49220
+#EXTINF:-1 tvg-id="86" tvh-chnum="217" tvg-logo="https://i.imgur.com/1qXSXRa.png" tvh-tags="라이프",Gtv
+udp://239.192.69.104:49220
+#EXTINF:-1 tvg-id="229" tvh-chnum="218" tvg-logo="https://i.imgur.com/AlmV8jS.png" tvh-tags="라이프",동아TV
+udp://239.192.68.17:49220
+#EXTINF:-1 tvg-id="150" tvh-chnum="219" tvg-logo="https://i.imgur.com/uZkbU7b.png" tvh-tags="라이프",OBSW
+udp://239.192.65.16:49220
+#EXTINF:-1 tvg-id="1" tvh-chnum="220" tvg-logo="https://i.imgur.com/tRhzBgK.png" tvh-tags="라이프",9colors
+udp://239.192.69.172:49220
+#EXTINF:-1 tvg-id="321" tvh-chnum="221" tvg-logo="https://i.imgur.com/pCuIQsT.png" tvh-tags="라이프",NHK World Premium
+udp://239.192.69.207:49220
+#EXTINF:-1 tvg-id="203" tvh-chnum="223" tvg-logo="https://i.imgur.com/NP2KTGN.png" tvh-tags="라이프",TRENDY
+udp://239.192.70.6:49220
+#EXTINF:-1 tvg-id="499" tvh-chnum="224" tvg-logo="https://imgur.com/E15dB8x.png" tvh-tags="라이프",CookTV
+udp://239.192.70.8:49220
+#EXTINF:-1 tvg-id="455" tvh-chnum="225" tvg-logo="https://imgur.com/gLHDDha.png" tvh-tags="라이프",Now제주TV
+udp://239.192.70.13:49220
+#EXTINF:-1 tvg-id="271" tvh-chnum="226" tvg-logo="https://i.imgur.com/UEIB4ZG.png" tvh-tags="라이프",육아방송
+udp://239.192.70.5:49220
+#EXTINF:-1 tvg-id="262" tvh-chnum="227" tvg-logo="https://i.imgur.com/xm1O8eQ.png" tvh-tags="라이프",실버아이TV
+udp://239.192.70.4:49220
+#EXTINF:-1 tvg-id="447" tvh-chnum="228" tvg-logo="https://i.imgur.com/XaObZ8I.png" tvh-tags="라이프",시니어TV
+udp://239.192.70.15:49220
+#EXTINF:-1 tvg-id="292" tvh-chnum="229" tvg-logo="https://i.imgur.com/ZoBPIVK.png" tvh-tags="라이프",KBS N Life
+udp://239.192.70.38:49220
+#EXTINF:-1 tvg-id="168" tvh-chnum="230" tvg-logo="https://i.imgur.com/OeSJ9Ik.png" tvh-tags="음악",SBS MTV
+udp://239.192.55.4:49220
+#EXTINF:-1 tvg-id="124" tvh-chnum="231" tvg-logo="https://i.imgur.com/6g56RDx.png" tvh-tags="음악",MBC M
+udp://239.192.53.4:49220
+#EXTINF:-1 tvg-id="82" tvh-chnum="232" tvg-logo="https://i.imgur.com/WPF3G5V.png" tvh-tags="음악",GMTV
+udp://239.192.69.70:49220
+#EXTINF:-1 tvg-id="92" tvh-chnum="233" tvg-logo="https://i.imgur.com/JYQpemw.png" tvh-tags="음악",아이넷 TV
+udp://239.192.69.45:49220
+#EXTINF:-1 tvg-id="6" tvh-chnum="234" tvg-logo="https://i.imgur.com/zReu7df.png" tvh-tags="음악",Arte TV
+udp://239.192.65.8:49220
+#EXTINF:-1 tvg-id="42" tvh-chnum="235" tvg-logo="https://i.imgur.com/FEfMS0W.png" tvh-tags="음악",STINGRAY CLASSICA
+udp://239.192.69.100:49220
+#EXTINF:-1 tvg-id="94" tvh-chnum="236" tvg-logo="https://i.imgur.com/kmBggGZ.png" tvh-tags="음악",Mezzo Live
+udp://239.192.70.39:49220
+#EXTINF:-1 tvg-id="412" tvh-chnum="237" tvg-logo="https://i.imgur.com/hV270KM.png" tvh-tags="음악",Stingray CMusic
+udp://239.192.69.176:49220
+#EXTINF:-1 tvg-id="273" tvh-chnum="238" tvg-logo="https://i.imgur.com/1Eeyijd.png" tvh-tags="음악",이벤트TV
+udp://239.192.69.231:49220
+#EXTINF:-1 tvg-id="458" tvh-chnum="239" tvg-logo="https://i.imgur.com/cb61Swx.png" tvh-tags="음악",BET
+udp://239.192.64.13:49220
+#EXTINF:-1 tvg-id="245" tvh-chnum="240" tvg-logo="https://i.imgur.com/jbRu8T2.png" tvh-tags="취미/레저",바둑TV
+udp://239.192.66.11:49220
+#EXTINF:-1 tvg-id="118" tvh-chnum="241" tvg-logo="https://i.imgur.com/EAk5ySy.png" tvh-tags="취미/레저",K-바둑
+udp://239.192.69.5:49220
+#EXTINF:-1 tvg-id="251" tvh-chnum="242" tvg-logo="https://i.imgur.com/1422kP1.png" tvh-tags="취미/레저",브레인TV
+udp://239.192.69.143:49220
+#EXTINF:-1 tvg-id="78" tvh-chnum="243" tvg-logo="https://i.imgur.com/eI9wGgS.png" tvh-tags="취미/레저",FTV
+udp://239.192.68.5:49220
+#EXTINF:-1 tvg-id="72" tvh-chnum="244" tvg-logo="https://i.imgur.com/Go4FdK1.png" tvh-tags="취미/레저",FISHING TV
+udp://239.192.65.4:49220
+#EXTINF:-1 tvg-id="156" tvh-chnum="245" tvg-logo="https://i.imgur.com/2lu0ZBu.png" tvh-tags="취미/레저",ONT
+udp://239.192.69.105:49220
+#EXTINF:-1 tvg-id="179" tvh-chnum="246" tvg-logo="https://i.imgur.com/fAJgmna.png" tvh-tags="취미/레저",sky Travel
+udp://239.192.64.16:49220
+#EXTINF:-1 tvg-id="133" tvh-chnum="247" tvg-logo="https://i.imgur.com/4nLYnVC.png" tvh-tags="취미/레저",Mountain TV
+udp://239.192.66.12:49220
+#EXTINF:-1 tvg-id="266" tvh-chnum="248" tvg-logo="https://i.imgur.com/t6lQ9PW.png" tvh-tags="취미/레저",HobbyLife
+udp://239.192.70.40:49220
+#EXTINF:-1 tvg-id="302" tvh-chnum="249" tvg-logo="https://i.imgur.com/aghufJ7.png" tvh-tags="취미/레저",폴라리스TV
+udp://239.192.69.17:49220
+#EXTINF:-1 tvg-id="267" tvh-chnum="250" tvg-logo="https://i.imgur.com/aghufJ7.png" tvh-tags="취미/레저",chEM
+udp://239.192.70.41:49220
+#EXTINF:-1 tvg-id="239" tvh-chnum="251" tvg-logo="https://i.imgur.com/0jGCpfx.png" tvh-tags="취미/레저",리빙TV
+udp://239.192.69.232:49220
+#EXTINF:-1 tvg-id="268" tvh-chnum="252" tvg-logo="https://i.imgur.com/hI0USoE.png" tvh-tags="취미/레저",MyZen TV
+udp://239.192.70.43:49220
+#EXTINF:-1 tvg-id="293" tvh-chnum="253" tvg-logo="https://i.imgur.com/y2y6muG.png" tvh-tags="취미/레저",TV5Monde Style
+udp://239.192.70.44:49220
+#EXTINF:-1 tvg-id="269" tvh-chnum="254" tvg-logo="https://i.imgur.com/8q5uFhM.png" tvh-tags="취미/레저",아이넷라이프
+udp://239.192.70.47:49220
+#EXTINF:-1 tvg-id="249" tvh-chnum="255" tvg-logo="https://i.imgur.com/ZiLksdi.png" tvh-tags="취미/레저",붐TV
+udp://239.192.70.48:49220
+#EXTINF:-1 tvg-id="897" tvh-chnum="256" tvg-logo="https://i.imgur.com/wudIBdU.png" tvh-tags="취미/레저",ETN연예TV
+udp://239.192.70.49:49220
+#EXTINF:-1 tvg-id="138" tvh-chnum="260" tvg-logo="https://i.imgur.com/mqTSPMN.png" tvh-tags="교양/정보",내셔널지오그래픽
+udp://239.192.68.4:49220
+#EXTINF:-1 tvg-id="51" tvh-chnum="261" tvg-logo="https://i.imgur.com/1SgSI0P.png" tvh-tags="교양/정보",Discovery Channel
+udp://239.192.69.103:49220
+#EXTINF:-1 tvg-id="219" tvh-chnum="262" tvg-logo="https://i.imgur.com/gwDHYGf.png" tvh-tags="교양/정보",YTN 사이언스
+udp://239.192.68.6:49220
+#EXTINF:-1 tvg-id="136" tvh-chnum="263" tvg-logo="https://i.imgur.com/2ghKPUg.png" tvh-tags="교양/정보",Natgeo People
+udp://239.192.69.77:49220
+#EXTINF:-1 tvg-id="90" tvh-chnum="264" tvg-logo="https://i.imgur.com/SSkop4X.png" tvh-tags="교양/정보",History
+udp://239.192.69.174:49220
+#EXTINF:-1 tvg-id="15" tvh-chnum="265" tvg-logo="https://i.imgur.com/SJZjuqO.png" tvh-tags="교양/정보",BBC earth
+udp://239.192.69.165:49220
+#EXTINF:-1 tvg-id="137" tvh-chnum="266" tvg-logo="https://i.imgur.com/M4nh0Rk.png" tvh-tags="교양/정보",Natgeo Wild HD
+udp://239.192.64.8:49220
+#EXTINF:-1 tvg-id="160" tvh-chnum="267" tvg-logo="https://i.imgur.com/PYnXtlb.png" tvh-tags="교양/정보",리얼TV
+udp://239.192.69.108:49220
+#EXTINF:-1 tvg-id="311" tvh-chnum="268" tvg-logo="https://i.imgur.com/vsxRuFh.png" tvh-tags="교양/정보",헬스메디TV
+udp://239.192.66.5:49220
+#EXTINF:-1 tvg-id="294" tvh-chnum="269" tvg-logo="https://i.imgur.com/4gl92D1.png" tvh-tags="교양/정보",쿠키건강TV
+udp://239.192.69.137:49220
+#EXTINF:-1 tvg-id="263" tvh-chnum="270" tvg-logo="https://i.imgur.com/nFWWIFP.png" tvh-tags="교양/정보",아리랑TV
+udp://239.192.66.14:49220
+#EXTINF:-1 tvg-id="257" tvh-chnum="271" tvg-logo="https://i.imgur.com/3k1D4LA.png" tvh-tags="교양/정보",소상공인방송
+udp://239.192.69.164:49220
+#EXTINF:-1 tvg-id="307" tvh-chnum="273" tvg-logo="https://i.imgur.com/WUvf0If.png" tvh-tags="교양/정보",한국직업방송
+udp://239.192.69.195:49220
+#EXTINF:-1 tvg-id="125" tvh-chnum="274" tvg-logo="https://i.imgur.com/lxDOgY8.png" tvh-tags="교양/정보",MBC NET
+udp://239.192.69.75:49220
+#EXTINF:-1 tvg-id="256" tvh-chnum="275" tvg-logo="https://i.imgur.com/971hUD2.png" tvh-tags="교양/정보",소비자TV
+udp://239.192.69.170:49220
+#EXTINF:-1 tvg-id="315" tvh-chnum="276" tvg-logo="https://i.imgur.com/eITOr2Y.png" tvh-tags="교양/정보",NBS 한국농업방송
+udp://239.192.69.173:49220
+#EXTINF:-1 tvg-id="31" tvh-chnum="277" tvg-logo="https://i.imgur.com/ACwvhcc.png" tvh-tags="교양/정보",CCTV4
+udp://239.192.69.205:49220
+#EXTINF:-1 tvg-id="139" tvh-chnum="278" tvg-logo="https://i.imgur.com/ZSHeMzp.png" tvh-tags="교양/정보",NHK WORLD JAPAN
+udp://239.192.69.208:49220
+#EXTINF:-1 tvg-id="205" tvh-chnum="279" tvg-logo="https://i.imgur.com/NogUKpP.png" tvh-tags="교양/정보",TV5Monde
+udp://239.192.69.206:49220
+#EXTINF:-1 tvg-id="246" tvh-chnum="280" tvg-logo="https://i.imgur.com/WJaHOAP.png" tvh-tags="교양/정보",법률방송
+udp://239.192.69.233:49220
+#EXTINF:-1 tvg-id="284" tvh-chnum="281" tvg-logo="https://i.imgur.com/X7lXvtw.png" tvh-tags="교양/정보",채널i
+udp://239.192.69.234:49220
+#EXTINF:-1 tvg-id="222" tvh-chnum="282" tvg-logo="https://i.imgur.com/yyXkYzJ.png" tvh-tags="교양/정보",국방TV
+udp://239.192.69.235:49220
+#EXTINF:-1 tvg-id="453" tvh-chnum="283" tvg-logo="https://i.imgur.com/1EZs0Tn.png" tvh-tags="교양/정보",다큐원
+udp://239.192.69.167:49220
+#EXTINF:-1 tvg-id="292" tvh-chnum="284" tvg-logo="https://i.imgur.com/KATTup7.png" tvh-tags="교양/정보",브릿지TV
+udp://239.192.70.7:49220
+#EXTINF:-1 tvg-id="279" tvh-chnum="285" tvg-logo="https://i.imgur.com/AuXr9jA.png" tvh-tags="교양/정보", 지방자치TV
+udp://239.192.70.14:49220
+#EXTINF:-1 tvg-id="502" tvh-chnum="286" tvg-logo="https://imgur.com/RRiNRP9.png" tvh-tags="교양/정보",다문화TV
+udp://239.192.70.16:49220
+#EXTINF:-1 tvg-id="117" tvh-chnum="290" tvg-logo="https://i.imgur.com/yUk2RhO.png" tvh-tags="공공",KTV
+udp://239.192.64.11:49220
+#EXTINF:-1 tvg-id="223" tvh-chnum="291" tvg-logo="https://i.imgur.com/l1OEn7O.png" tvh-tags="공공",국회방송
+udp://239.192.64.5:49220
+#EXTINF:-1 tvg-id="157" tvh-chnum="292" tvg-logo="https://i.imgur.com/VimbcIH.png" tvh-tags="공공",OUN
+udp://239.192.68.3:49220
+#EXTINF:-1 tvg-id="247" tvh-chnum="293" tvg-logo="https://i.imgur.com/cTV0rnb.png" tvh-tags="공공",복지TV
+udp://239.192.69.162:49220
+#EXTINF:-1 tvg-id="28" tvh-chnum="300" tvg-logo="https://i.imgur.com/yBNo2mS.png" tvh-tags="종교",CBS
+udp://239.192.69.112:49220
+#EXTINF:-1 tvg-id="49" tvh-chnum="301" tvg-logo="https://i.imgur.com/lW9nvaB.png" tvh-tags="종교",CTS
+udp://239.192.69.113:49220
+#EXTINF:-1 tvg-id="32" tvh-chnum="302" tvg-logo="https://i.imgur.com/9fNvKEX.png" tvh-tags="종교",CGNTV
+udp://239.192.69.67:49220
+#EXTINF:-1 tvg-id="83" tvh-chnum="303" tvg-logo="https://i.imgur.com/fFN1YJb.png" tvh-tags="종교",Good TV
+udp://239.192.69.139:49220
+#EXTINF:-1 tvg-id="24" tvh-chnum="304" tvg-logo="https://i.imgur.com/SFouN1c.png" tvh-tags="종교",C채널
+udp://239.192.69.72:49220
+#EXTINF:-1 tvg-id="23" tvh-chnum="305" tvg-logo="https://i.imgur.com/XU4pwpC.png" tvh-tags="종교",BTN 불교TV
+udp://239.192.69.79:49220
+#EXTINF:-1 tvg-id="19" tvh-chnum="306" tvg-logo="https://i.imgur.com/B34jpmo.png" tvh-tags="종교",BBS 불교방송
+udp://239.192.69.136:49220
+#EXTINF:-1 tvg-id="301" tvh-chnum="307" tvg-logo="https://i.imgur.com/G5fTCL3.png" tvh-tags="종교",가톨릭평화방송
+udp://239.192.69.196:49220
+#EXTINF:-1 tvg-id="193" tvh-chnum="308" tvg-logo="https://i.imgur.com/Z3Xknso.png" tvh-tags="종교",STB 상생방송
+udp://239.192.69.69:49220
+#EXTINF:-1 tvg-id="215" tvh-chnum="309" tvg-logo="https://i.imgur.com/mKWQE7z.png" tvh-tags="종교",원음방송
+udp://239.192.69.197:49220
+#EXTINF:-1 tvg-chno="901" radio="true" tvh-tags="Radio",Radio1
+udp://239.192.70.161:49220
+#EXTINF:-1 tvg-chno="902" radio="true" tvh-tags="Radio",Radio2
+udp://239.192.70.162:49220
+#EXTINF:-1 tvg-chno="903" radio="true" tvh-tags="Radio",Radio3
+udp://239.192.70.163:49220
+#EXTINF:-1 tvg-chno="904" radio="true" tvh-tags="Radio",Radio4
+udp://239.192.70.164:49220
+#EXTINF:-1 tvg-chno="905" radio="true" tvh-tags="Radio",Radio5
+udp://239.192.70.165:49220
+#EXTINF:-1 tvg-chno="906" radio="true" tvh-tags="Radio",Radio6
+udp://239.192.70.166:49220
+#EXTINF:-1 tvg-chno="907" radio="true" tvh-tags="Radio",Radio7
+udp://239.192.70.167:49220
+#EXTINF:-1 tvg-chno="908" radio="true" tvh-tags="Radio",Radio8
+udp://239.192.70.168:49220
+#EXTINF:-1 tvg-chno="909" radio="true" tvh-tags="Radio",Radio9
+udp://239.192.70.169:49220
+#EXTINF:-1 tvg-chno="910" radio="true" tvh-tags="Radio",Radio10
+udp://239.192.70.170:49220
+#EXTINF:-1 tvg-chno="911" radio="true" tvh-tags="Radio",Radio11
+udp://239.192.70.171:49220
+#EXTINF:-1 tvg-chno="912" radio="true" tvh-tags="Radio",Radio12
+udp://239.192.70.172:49220
+#EXTINF:-1 tvg-chno="913" radio="true" tvh-tags="Radio",Radio13
+udp://239.192.70.173:49220
+#EXTINF:-1 tvg-chno="914" radio="true" tvh-tags="Radio",Radio14
+udp://239.192.70.174:49220
+#EXTINF:-1 tvg-chno="915" radio="true" tvh-tags="Radio",Radio15
+udp://239.192.70.175:49220
+#EXTINF:-1 tvg-chno="916" radio="true" tvh-tags="Radio",Radio16
+udp://239.192.70.176:49220
+#EXTINF:-1 tvg-chno="917" radio="true" tvh-tags="Radio",Radio17
+udp://239.192.70.177:49220
+#EXTINF:-1 tvg-chno="918" radio="true" tvh-tags="Radio",Radio18
+udp://239.192.70.178:49220
+#EXTINF:-1 tvg-chno="919" radio="true" tvh-tags="Radio",Radio19
+udp://239.192.70.179:49220
+#EXTINF:-1 tvg-chno="920" radio="true" tvh-tags="Radio",Radio20
+udp://239.192.70.180:49220
+#EXTINF:-1 tvg-chno="921" radio="true" tvh-tags="Radio",Radio21
+udp://239.192.70.181:49220
+#EXTINF:-1 tvg-chno="922" radio="true" tvh-tags="Radio",Radio22
+udp://239.192.70.182:49220
+#EXTINF:-1 tvg-chno="923" radio="true" tvh-tags="Radio",Radio23
+udp://239.192.70.183:49220
+#EXTINF:-1 tvg-chno="924" radio="true" tvh-tags="Radio",Radio24
+udp://239.192.70.184:49220
+#EXTINF:-1 tvg-chno="925" radio="true" tvh-tags="Radio",Radio25
+udp://239.192.70.185:49220
+#EXTINF:-1 tvg-chno="926" radio="true" tvh-tags="Radio",Radio26
+udp://239.192.70.186:49220
+#EXTINF:-1 tvg-chno="927" radio="true" tvh-tags="Radio",Radio27
+udp://239.192.70.187:49220
+#EXTINF:-1 tvg-chno="928" radio="true" tvh-tags="Radio",Radio28
+udp://239.192.70.189:49220
+#EXTINF:-1 tvg-chno="929" radio="true" tvh-tags="Radio",Radio29
+udp://239.192.70.190:49220
